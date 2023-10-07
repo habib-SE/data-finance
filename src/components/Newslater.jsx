@@ -5,7 +5,7 @@ const Newslater = () => {
     return (
         <div className='text-white py-16 w-full'>
             <div className='max-w-[1240px] mx-auto  grid lg:grid-cols'>
-                <div className=''>
+                <div className='lg:col-span-2 my-4'>
                     <h1 className='font-bold md:text-4xl sm:text-3xl text-2xl py-2 '> Want tips & tricks to optimize your flow?</h1>
                     <p>Sign up to our newsletter and stay up to date.</p>
                 </div>
