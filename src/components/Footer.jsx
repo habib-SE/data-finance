@@ -7,7 +7,6 @@ import {
   FaTwitterSquare,
 } from 'react-icons/fa';
 
-// Footer Section
 
 const Footer = () => {
   return (
